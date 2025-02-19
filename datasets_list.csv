@@ -1,0 +1,6 @@
+fileName,tableName
+datasets/EMR/trendytech-hospital-a/departments.csv,departments
+datasets/EMR/trendytech-hospital-a/encounters.csv,encounters
+datasets/EMR/trendytech-hospital-a/patients.csv,patients
+datasets/EMR/trendytech-hospital-a/providers.cs,providers
+datasets/EMR/trendytech-hospital-a/transactions.csv,transactions
